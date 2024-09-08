@@ -1,0 +1,35 @@
+---
+title: "Kristen Chen"
+image: "TA.jpg"
+links:
+  - label: LinkedIn
+    url: "www.linkedin.com/in/kristen-chen-88318a293"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/Kristen6666"
+  - label: Email
+    url: "mailto:cchen292@jh.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Kristen Chen is a second-year master's student in epidemiology, currently on the cancer track. She holds an undergraduate degree in Nursing and has rotated through various departments in a hospital setting. Kristen participated in developing a nursing plan for patients with acute myeloid leukemia during myelosuppression after chemotherapy at Tongji Hospital, utilizing the Delphi method to ensure its credibility. She also conducted educational seminars on addiction prevention for adolescents in the addiction department at Wuhan Mental Health Center. Previously, Kristen researched the impact of dietary selenium on the treatment of hepatocellular carcinoma with SORAfenib. Currently, she is researching the association and validation between liver cancer and genetic epidemiology.
+
+## Education
+
+**Johns Hopkins University** | Baltimore, MD
+
+MHS in Epidemiology | September 2023 - May 2025
+
+**Huazhong University of Science And Technology** | Wuhan, China
+
+B.S. in Nursing | September 2019 - May 2023
+
+## Experience
+
+**IQVIA** | Data Analyst | April.2023-Jun.2023
+
+**Tongji Hospital** | Research Assistance | Jul. 2022-May. 2023
